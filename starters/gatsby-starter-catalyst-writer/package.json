@@ -9,7 +9,7 @@
     "gatsby-theme-catalyst-core": "0.25.2",
     "gatsby-theme-catalyst-footer": "0.2.4",
     "gatsby-theme-catalyst-header-top": "0.4.2",
-    "gatsby-theme-catalyst-writer": "0.8.2",
+    "gatsby-theme-catalyst-writer": "0.9.0",
     "react": "16.13.0",
     "react-dom": "16.13.0"
   },

@@ -1,4 +1,6 @@
-# Gatsby Starter Catalyst Writer
+# DEPRECIATED - Gatsby Starter Catalyst Writer
+
+**This starter is being depreciated as of gatsby-theme-catalyst v1.0. Instead use gatsby-starter-catalyst-hydrogen. It will continue to work as the package versions are now pinned, you should not have any problems with this in the short-medium term. You should be able to migrate fairly easily to gatsby-starter-catalyst-hydrogen as there were no breaking changes to the data structure for published work. The main change was abstracting the sanity functions into a seperate theme which necessitated a number of changes.**
 
 This is a full-featured starter that ties together the core theme, header and footer themes and the writer theme to ceate a complete website. The theme relies on data from [SANITY.io](https://www.sanity.io/) and includes a customized content studio for the CMS.
 
