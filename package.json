@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "workspaces": [
+    "starters/*",
+    "themes/*"
+  ],
+  "name": "gatsby-theme-catalyst",
+  "devDependencies": {},
+  "scripts": {
+    "develop:writer": "yarn workspace gatsby-starter-catalyst-writer develop",
+    "build:writer": "yarn workspace gatsby-starter-catalyst-writer build",
+    "serve:writer": "yarn workspace gatsby-starter-catalyst-writer serve",
+    "clean:writer": "yarn workspace gatsby-starter-catalyst-writer clean"
+  }
+}
